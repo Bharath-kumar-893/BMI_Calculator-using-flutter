@@ -8,7 +8,7 @@ This is a simple BMI (Body Mass Index) calculator app built using Flutter framew
 - Responsive design with user-friendly input fields and buttons.
 
 ### Usage:
-1. Clone the repository: `git clone [repository-url]`
+1. Clone the repository: `https://github.com/Bharath-kumar-893/BMI_Calculator-using-flutter.git`
 2. Open the project in your preferred Flutter IDE.
 3. Run the app on a simulator or physical device.
 
